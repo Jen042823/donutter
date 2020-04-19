@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.col-md-6 {
+    background-color: #f3f3f3;
+    padding: 1rem;
+    border-radius: 1rem;
+
+}
+
+.col-md-12 {
+    margin-top: 1rem;
+}
+
+.buttonrow {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.container {
+    margin-top: 1rem;
+    
+}
